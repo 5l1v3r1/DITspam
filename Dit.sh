@@ -1,10 +1,10 @@
 clear
-figlet -f bigmono9 "InsideHeartz Spam" | lolcat
+figlet -f bigmono9 "Broken Heart" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
-echo "\033[36;1m" "                    AUTHOR : Aditia Alfiansyah"
+echo "\033[36;1m" "                    Author By : Aditia Alfiansyah"
 echo "\033[36;1m" "                    		TERSAKITI CREW"
-echo "\033[35;1m #Budidayakan Spam Mantan#"
+echo "\033[35;1m [!]Budidayakan Spam Mantan[!]"
 echo "\033[34;1m" "WhatsApp : +1 (313)2617183"
 echo "\033[34;1m" "LEARN LEARN AND LEARN"
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
