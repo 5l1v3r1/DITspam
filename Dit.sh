@@ -1,5 +1,5 @@
 clear
-figlet -f bigmono9 "InsideHeartz Spam" | lolcat
+figlet -f bigmono9 "BROKEN HEART" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
 echo "\033[36;1m" "                    AUTHOR : Aditia Alfiansyah"
